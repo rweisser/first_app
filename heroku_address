@@ -1,8 +1,17 @@
 Heroku address for first_app;
 
+NOTE:  I destroyed this app on heroku.
+
+email:  rweisser114@gmail.com
+pw:     the money bed numeric
+
 [~/self/rails/tutorials/hartl/rails4/first_app]$ heroku create
 Creating glacial-sea-6903... done, stack is cedar
 http://glacial-sea-6903.herokuapp.com/ | git@heroku.com:glacial-sea-6903.git
 Git remote heroku added
 [~/self/rails/tutorials/hartl/rails4/first_app]$ 
+
+For maintenance:
+
+https://dashboard.heroku.com/apps/glacial-sea-6903/resources
 
